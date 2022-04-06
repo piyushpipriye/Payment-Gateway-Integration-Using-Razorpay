@@ -2,7 +2,7 @@
 
 <b>Website link :- </b>
 
-<b>https://ppblog.000webhostapp.com/Payment%20Gateway%20Integration/index.html</b>
+<b>https://pococurante-surveys.000webhostapp.com/payment_gateway/</b>
 
 
 ![](Capture.png)
